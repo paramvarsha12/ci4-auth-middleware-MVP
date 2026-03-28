@@ -1,5 +1,5 @@
 
- CodeIgniter 4 backend and React frontend for managing users and teachers.
+ CodeIgniter 4 backend and React frontend MVP
 
 ## Project Structure
 
