@@ -42,7 +42,7 @@ interstackMVP/
 ## Prerequisites
 
 - PHP 7.4 or higher,
-- MySQL/MariaDB
+- MySQL/MariaDB,
 - Node.js 14 or higher
 - Composer
 - npm or yarn...
