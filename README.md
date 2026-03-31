@@ -1,5 +1,5 @@
 
- CodeIgniter 4 backend and React frontend MVP
+ CodeIgniter 4 backend and React frontend MVP (Minimum
 
 ## Project Structure (file format)
 
