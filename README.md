@@ -1,7 +1,7 @@
 
  CodeIgniter 4 backend and React frontend MVP (Minimum viable product),
 
-## Project Structure (file format)
+## Project Structure (file format):
 
 ```
 interstackMVP/
